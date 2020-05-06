@@ -2,7 +2,7 @@
 #April, 20 2020
 #Youtube: https://www.youtube.com/channel/UCud4cJjtCjEwKpynPz-nNaQ?
 #Github: https://github.com/Iggy-o
-#Preview: https://repl.it/@IghoiseO/Password-Validator
+#Preview: https://repl.it/@IghoiseO/Text-Waves
 
 '''
 Warning: Large input values may cause substantial device lag
